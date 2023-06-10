@@ -1,7 +1,7 @@
 # Homework 0
 Public repository and stub/testing code for Homework 0 of 10-714.
 
-# model test using python implementation
+### model test using python implementation
         import sys
         sys.path.append("src/")
 
@@ -17,7 +17,7 @@ Public repository and stub/testing code for Homework 0 of 10-714.
 
         train_softmax(X_tr, y_tr, X_te, y_te, epochs=10, lr = 0.2, batch=100)   
 
-# model test using cpp implementation
+### model test using cpp implementation
         import sys
         sys.path.append("src/")
 
